@@ -2,7 +2,7 @@
 💻 Cybersecurity Enthusiast 
 
 🚀 **About Me:**
-- 🛡️ Passionate about cybersecurity, penetration testing, and blue team defense.
+- 🛡️ Passionate about cybersecurity, penetration testing. 
 - 📜 Certified in Google Cybersecurity & PJPT.
 - 🏆 Currently preparing for **PNPT**
 
