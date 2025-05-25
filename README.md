@@ -1,26 +1,27 @@
-# Hi, I'm 0xThreat 👋
-💻 Cybersecurity Enthusiast 
+# 💻 Cybersecurity Enthusiast | Aspiring Pentester
 
-🚀 **About Me:**
-- 🛡️ Passionate about cybersecurity, penetration testing. 
-- 📜 Certified in Google Cybersecurity & PJPT.
-- 🏆 Currently preparing for **PNPT**
-
-📂 **Projects & Labs:**
-- 🔍 [Active Directory Pentesting Lab](#)
-- 🕵️ [SOC Playbook: Incident Response](#)
-- 🛠️ [Automation Scripts for Pentesting](#)
-
-🛠 **Tech Stack:**
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?&style=flat&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-%2357A7D7.svg?&style=flat&logo=kalilinux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-%23E34F26.svg?&style=flat&logo=metasploit&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-%23000000.svg?&style=flat&logo=splunk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?&style=flat&logo=python&logoColor=white)
-
-📫 **Let's Connect:**
-- 🔗 [LinkedIn](https://www.linkedin.com/in/mandeepjaswal)
-- 📧 mxthreat@icloud.com
+## 🚀 About Me
+🛡️ Passionate about cybersecurity, ethical hacking, and penetration testing  
+📜 Certified in Google Cybersecurity & PJPT  
+🎯 Preparing for the PNPT to further solidify my offensive security skills
 
 ---
-🚀 *Let's make the internet a safer place!*
+
+## 🧪 Projects & Labs
+- 🔍 **Active Directory Pentesting Lab** – Hands-on practice with real-world AD attack paths  
+- 🕵️ **SOC Playbook** – Incident response workflows and detection strategies  
+- 🛠️ **Automation Scripts** – Recon, enumeration, and post-exploitation tools written in Python  
+
+---
+
+## 🛠 Tech Stack
+- **Operating Systems:** Kali Linux, Windows, Parrot OS  
+- **Tools:** Nmap, Metasploit, Burp Suite, CrackMapExec, BloodHound  
+- **SIEM:** Splunk, Wazuh  
+- **Scripting:** Python, Bash  
+
+---
+
+## 📫 Let's Connect
+
+- 📧 mxthreat@icloud.com
